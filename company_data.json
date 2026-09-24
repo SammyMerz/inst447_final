@@ -1,0 +1,26 @@
+{
+    "language": {
+        "list_endpoint": "/api/v1/language/",
+        "schema": "/api/v1/language/schema/"
+    },
+    "languagemap": {
+        "list_endpoint": "/api/v1/languagemap/",
+        "schema": "/api/v1/languagemap/schema/"
+    },
+    "lexicon": {
+        "list_endpoint": "/api/v1/lexicon/",
+        "schema": "/api/v1/lexicon/schema/"
+    },
+    "source": {
+        "list_endpoint": "/api/v1/source/",
+        "schema": "/api/v1/source/schema/"
+    },
+    "word": {
+        "list_endpoint": "/api/v1/word/",
+        "schema": "/api/v1/word/schema/"
+    },
+    "website": {
+        "name": "1000 Ways To Say Dog",
+        "url": "https://transnewguinea.org/word/dog"
+    }
+}

@@ -1,0 +1,452 @@
+[
+    {
+        "ID":196043,
+        "Language":"Kobon",
+        "Entry":"a\u026badoi",
+        "Annotation":"-",
+        "Loan":null,
+        "Source":"Pawley (2013)",
+        "Source Gloss":null
+    },
+    {
+        "ID":178173,
+        "Language":"Yangulam",
+        "Entry":"a\u0294an\u0303e",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Z'graggen (1980)",
+        "Source Gloss":"dog"
+    },
+    {
+        "ID":258589,
+        "Language":"Mulaha",
+        "Entry":"aba",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Dutton (1970)",
+        "Source Gloss":"dog"
+    },
+    {
+        "ID":258583,
+        "Language":"Uare",
+        "Entry":"\u02c8aba",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Dutton (1970)",
+        "Source Gloss":"dog"
+    },
+    {
+        "ID":258587,
+        "Language":"Humene",
+        "Entry":"\u02c8aba",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Dutton (1970)",
+        "Source Gloss":"dog"
+    },
+    {
+        "ID":237445,
+        "Language":"Manambu",
+        "Entry":"ac",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Foley (2005)",
+        "Source Gloss":null
+    },
+    {
+        "ID":25173,
+        "Language":"Mor",
+        "Entry":"afuna",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Voorhoeve (1975)",
+        "Source Gloss":null
+    },
+    {
+        "ID":17,
+        "Language":"Kuman",
+        "Entry":"a\u029dg",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Trefry (1969)",
+        "Source Gloss":null
+    },
+    {
+        "ID":231272,
+        "Language":"Mandobo Atas",
+        "Entry":"aga",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Healey (1970)",
+        "Source Gloss":null
+    },
+    {
+        "ID":231457,
+        "Language":"Mandobo Atas (Kwem Dialect)",
+        "Entry":"aga",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Healey (1970)",
+        "Source Gloss":null
+    },
+    {
+        "ID":197318,
+        "Language":"Papi",
+        "Entry":"agabu",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Conrad and Dye (1975)",
+        "Source Gloss":null
+    },
+    {
+        "ID":230856,
+        "Language":"Wambon",
+        "Entry":"agay",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Healey (1970)",
+        "Source Gloss":null
+    },
+    {
+        "ID":229401,
+        "Language":"Proto-Dumut",
+        "Entry":"*agay",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Healey (1970)",
+        "Source Gloss":null
+    },
+    {
+        "ID":226585,
+        "Language":"Proto-Dumut",
+        "Entry":"*agay",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Healey (1970)",
+        "Source Gloss":null
+    },
+    {
+        "ID":178157,
+        "Language":"Siroi",
+        "Entry":"age",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Z'graggen (1980)",
+        "Source Gloss":"dog"
+    },
+    {
+        "ID":32595,
+        "Language":"Kuman",
+        "Entry":"agi",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Salisbury (1956)",
+        "Source Gloss":null
+    },
+    {
+        "ID":18485,
+        "Language":"Aimele",
+        "Entry":"\u00e3gi",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Shaw (1986)",
+        "Source Gloss":null
+    },
+    {
+        "ID":35290,
+        "Language":"Alor (Kalabahi Dialect)",
+        "Entry":"'ah\u0254",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Stokhof (1975)",
+        "Source Gloss":null
+    },
+    {
+        "ID":34814,
+        "Language":"Alor (Baranusa Kabir Dialect)",
+        "Entry":"\u0294ah'\u0254",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Stokhof (1975)",
+        "Source Gloss":null
+    },
+    {
+        "ID":25699,
+        "Language":"Warkay-Bipim",
+        "Entry":"a is",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Voorhoeve (1975)",
+        "Source Gloss":null
+    },
+    {
+        "ID":31019,
+        "Language":"Warkay-Bipim",
+        "Entry":"\u00e4is",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Voorhoeve (1971)",
+        "Source Gloss":null
+    },
+    {
+        "ID":198092,
+        "Language":"Ama",
+        "Entry":"a\u01cfuou",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Conrad and Dye (1975)",
+        "Source Gloss":null
+    },
+    {
+        "ID":22230,
+        "Language":"Konda",
+        "Entry":"ajia",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Voorhoeve (1975)",
+        "Source Gloss":null
+    },
+    {
+        "ID":671,
+        "Language":"Kuman",
+        "Entry":"ak\u026c \u0325",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Trefry (1969)",
+        "Source Gloss":null
+    },
+    {
+        "ID":77297,
+        "Language":"Enga",
+        "Entry":"amba\u00edpu",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Lang (1973)",
+        "Source Gloss":null
+    },
+    {
+        "ID":159944,
+        "Language":"Wantoat (Yagawak Dialect)",
+        "Entry":"an",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"McElhanon and Voorhoeve (1970)",
+        "Source Gloss":"dog"
+    },
+    {
+        "ID":25859,
+        "Language":"Mekwei",
+        "Entry":"ando",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Voorhoeve (1975)",
+        "Source Gloss":null
+    },
+    {
+        "ID":159924,
+        "Language":"Nukna",
+        "Entry":"a\u014b",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"McElhanon and Voorhoeve (1970)",
+        "Source Gloss":"dog"
+    },
+    {
+        "ID":159925,
+        "Language":"Nukna (Hamelengan Dialect)",
+        "Entry":"a\u014b",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"McElhanon and Voorhoeve (1970)",
+        "Source Gloss":"dog"
+    },
+    {
+        "ID":159943,
+        "Language":"Wantoat (Yagawak Dialect)",
+        "Entry":"a\u014b",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"McElhanon and Voorhoeve (1970)",
+        "Source Gloss":"dog"
+    },
+    {
+        "ID":159945,
+        "Language":"Tuma-Irumu (Irumu Dialect)",
+        "Entry":"a\u014b",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"McElhanon and Voorhoeve (1970)",
+        "Source Gloss":"dog"
+    },
+    {
+        "ID":226582,
+        "Language":"Proto-Awyu-Dumut",
+        "Entry":"*angay",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Healey (1970)",
+        "Source Gloss":null
+    },
+    {
+        "ID":25539,
+        "Language":"Mandobo Atas",
+        "Entry":"a\u014bga",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Voorhoeve (1975)",
+        "Source Gloss":null
+    },
+    {
+        "ID":159887,
+        "Language":"Mandobo Atas",
+        "Entry":"a\u014bga",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"McElhanon and Voorhoeve (1970)",
+        "Source Gloss":"dog"
+    },
+    {
+        "ID":20955,
+        "Language":"Wambon",
+        "Entry":"a\u014bgae",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Voorhoeve (1975)",
+        "Source Gloss":null
+    },
+    {
+        "ID":159888,
+        "Language":"Wambon",
+        "Entry":"a\u014bgae",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"McElhanon and Voorhoeve (1970)",
+        "Source Gloss":"dog"
+    },
+    {
+        "ID":25407,
+        "Language":"Awyu, Asue",
+        "Entry":"a\u014bgi",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Voorhoeve (1975)",
+        "Source Gloss":null
+    },
+    {
+        "ID":159885,
+        "Language":"Awyu, Asue",
+        "Entry":"a\u014bgi",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"McElhanon and Voorhoeve (1970)",
+        "Source Gloss":"dog"
+    },
+    {
+        "ID":219971,
+        "Language":"Awyu, Central (Taim Dialect)",
+        "Entry":"\u02c8a\u014bgi",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Kriens & Lebold (2010)",
+        "Source Gloss":null
+    },
+    {
+        "ID":230120,
+        "Language":"Awyu, Asue",
+        "Entry":"angi",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Healey (1970)",
+        "Source Gloss":null
+    },
+    {
+        "ID":229894,
+        "Language":"Awyu, Asue",
+        "Entry":"angi\u0301",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Healey (1970)",
+        "Source Gloss":null
+    },
+    {
+        "ID":178159,
+        "Language":"Pulabu",
+        "Entry":"an\u0303i",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Z'graggen (1980)",
+        "Source Gloss":"dog"
+    },
+    {
+        "ID":35408,
+        "Language":"Bahasa Indonesia",
+        "Entry":"anjing",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Stokhof (1975)",
+        "Source Gloss":null
+    },
+    {
+        "ID":219048,
+        "Language":"Indonesian",
+        "Entry":"anjing",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Kriens & Lebold (2010)",
+        "Source Gloss":null
+    },
+    {
+        "ID":20875,
+        "Language":"Muyu, North",
+        "Entry":"anom",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Voorhoeve (1975)",
+        "Source Gloss":null
+    },
+    {
+        "ID":20915,
+        "Language":"Muyu, South",
+        "Entry":"anon",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Voorhoeve (1975)",
+        "Source Gloss":null
+    },
+    {
+        "ID":25367,
+        "Language":"Yongkom",
+        "Entry":"anon",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Voorhoeve (1975)",
+        "Source Gloss":null
+    },
+    {
+        "ID":159889,
+        "Language":"Muyu, North",
+        "Entry":"anon",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"McElhanon and Voorhoeve (1970)",
+        "Source Gloss":"dog"
+    },
+    {
+        "ID":159890,
+        "Language":"Muyu, South",
+        "Entry":"anon",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"McElhanon and Voorhoeve (1970)",
+        "Source Gloss":"dog"
+    },
+    {
+        "ID":21589,
+        "Language":"Semimi",
+        "Entry":"ansi",
+        "Annotation":null,
+        "Loan":null,
+        "Source":"Voorhoeve (1975)",
+        "Source Gloss":null
+    }
+]
